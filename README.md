@@ -1,2 +1,2 @@
 # ai-data-chat
-AI-Powered Data Chat with Next.js, FastAPI, Azure OpenAI.
+AI-Powered Data Chat with Next.js, FastAPI, Azure, OpenAI.
