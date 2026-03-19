@@ -85,9 +85,9 @@ npm run dev
 
 #### ゴール：全部繋がって動く状態を作る
 
-- [ ] backend/.env の作成
-- [ ] FastAPI にOpenAIチャットエンドポイントを実装
-- [ ] FastAPI にSnowflake接続・Text-to-SQLロジックを実装
+- [x] backend/.env の作成
+- [x] FastAPI にOpenAIチャットエンドポイントを実装
+- [x] FastAPI にSnowflake接続・Text-to-SQLロジックを実装
 - [ ] Next.js にチャットUIを作成
 - [ ] Next.js と FastAPI のAPI連携・ストリーミング表示
 - [ ] Azure CLI で手動デプロイ（Container Apps + Static Web Apps）
